@@ -1,0 +1,17 @@
+body {
+    font-family: 'Ubuntu', sans-serif; 
+}
+
+section {
+    padding: 20px 0;
+}
+
+.carousel-inner .carousel-item {
+    height: 100vh;
+}
+
+.card .ccard-img-top img {
+    width: 10%;
+    height: 100px; 
+    object-fit: cover;
+}
